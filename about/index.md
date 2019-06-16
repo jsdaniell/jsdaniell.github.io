@@ -50,8 +50,3 @@ Todos as tecnologias citadas aqui estão contidas na página de projetos e no me
 - Metodologia Ágil (Scrum, Design Sprint)
 - Arquitetura de software (Modelo iterativo e incremental)
 - Análise de Sistemas
-
-
-
-
-
