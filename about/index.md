@@ -10,6 +10,8 @@ comments: false
 
 Sempre fui apaixonado por tecnologia, ainda sim, iniciei minha carreira no mercado de trabalho no ambiente de produção audiovisual, editando vídeos, criando animações. Sem deixar o olhar sob a tecnologia se desviar, decidi iniciar minha graduação em análise e desenvolvimento de sistemas e desde então me aprofundei ainda mais nas tecnologias atuais, me reecontrando no mercado da tecnologia, com uma visão sistemática sobre o funcionamento das coisas, além do cerne organizacional que pode ser percebido em meus repositórios do [GitHub](github.com/jsdaniell).
 
+ Atualmente utilizo de tecnologias JavaScript como Node.js, Express.js, React, tenho experiência no desenvolvimento mobile com React-Native e Flutter implementado com Dart, desenvolvimento Web utilizando as tecnologias necessárias, HTML implementado com Pug (Jade) ou EJS, CSS, persistência de dados local e cloud (Firebase), carrego comigo o lema do aprendizado,
+
 # Skills
 
 Todos as tecnologias citadas aqui estão contidas na página de projetos e no meu repositório do GitHub, **ao clicar em algum dos tópicos será redirecionado aos meus projetos que se utilizam da tecnologia selecionada**, tenho certo domínio, experiência e conhecimento sob as seguintes tecnologias:
