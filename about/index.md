@@ -12,7 +12,9 @@ Sempre fui apaixonado por tecnologia, ainda sim, iniciei minha carreira no merca
 
 # Skills
 
-Todos as tecnologias citadas aqui estão contidas na página de projetos e no meu repositório do GitHub, **decidi separar por tópicos de acordo com o uso em meus projetos pra facilitar a visualização**, tenho certo domínio, experiência e conhecimento sob as seguintes tecnologias:
+Todos as tecnologias citadas aqui estão contidas na página de projetos e no meu repositório do GitHub, **ao clicar em algum dos tópicos será redirecionado aos meus projetos que se utilizam da tecnologia selecionada**, tenho certo domínio, experiência e conhecimento sob as seguintes tecnologias:
+
+
 
 
 ### Tecnologias no Qual Tenho Contato Eventual
