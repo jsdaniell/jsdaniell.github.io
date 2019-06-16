@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: Todos os Posts
+excerpt: "Lista de Posts"
 comments: false
 ---
