@@ -1,7 +1,6 @@
 # Site
 title:              'José Daniel'
-bio:                'Atualmente utilizando tecnologias JavaScript com Node.js, Express.js, React, persistência de dados com MongoDb, SQL, desenvolvimento Web com HTML, CSS, Jade, EJS, Jekyll com integração contínua com GitHub, desenvolvimento mobile com Flutter, Dart, carrego comigo o cerne do aprendizado constante!
-Quando não se está aprendendo se está sendo desafiado e vice e versa!'
+bio:                'Atualmente utilizando tecnologias JavaScript com Node.js, Express.js, React, persistência de dados com MongoDb, SQL, desenvolvimento Web com HTML, CSS, Jade, EJS, Jekyll com integração contínua com GitHub, desenvolvimento mobile com Flutter, Dart, carrego comigo o cerne do aprendizado constante! <br> Quando não se está aprendendo se está sendo desafiado e vice e versa!'
 description:        "Aqui demonstro alguns de meus projetos e habilidades desenvolvidas ao longo da minha jornada como programador!"
 reading_time:       true
 words_per_minute:   200
