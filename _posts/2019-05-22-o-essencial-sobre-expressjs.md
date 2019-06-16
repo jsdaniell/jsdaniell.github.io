@@ -2,8 +2,8 @@
 layout: post
 title: "O Essencial sobre o Express.js"
 date: 2019-06-22
-excerpt: "Para efetuar a implementação de banco de dados relacional em aplicações Flutter é necessário a utilização do módulo SQFlite e algumas regalias no código, como utilização do padrão de projeto singleton."
-tags: [flutter, sql]
+excerpt: "Alguns conceitos sobre o funcionamento e necessidade de uso do framework Express provindo das minhas experiências implementando-o."
+tags: [expressjs, nodejs]
 feature: ../assets/post-images/express.png
 ---
 

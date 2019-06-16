@@ -3,7 +3,7 @@ layout: post
 title: "O Essencial sobre o Funcionamento do Node.js"
 date: 2019-06-12
 excerpt: "Reuni alguns dos importantes conceitos no qual aprendi implementando execução de servidor em Node.js"
-tags: [flutter, sql]
+tags: [nodejs]
 feature: https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png
 ---
 
