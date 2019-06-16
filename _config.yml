@@ -1,6 +1,6 @@
 # Site
 title:              'José Daniel'
-bio:                'Minha experiência está contida em tecnologias como JavaScript com Node.js, Express.js, React, persistência de dados com MongoDb, SQL, ferramentas como Pug (Jade), EJS, Jekyll, integração contínua com GitHub, Git, desenvolvimento mobile com Flutter, Dart e React-Native. <br><br> Carrego comigo o cerne do aprendizado incessante, quando não se está aprendendo se está sendo desafiado e vice e versa!'
+bio:                'Minha experiência está contida em tecnologias como JavaScript com Node.js, Express.js, React, persistência de dados com MongoDb, SQL, ferramentas como Pug (Jade), EJS, Jekyll, integração contínua com GitHub, Git, desenvolvimento mobile com Flutter, Dart e React-Native. <br><br> Carrego comigo o cerne do aprendizado incessante, quando não se está aprendendo se está sendo desafiado e quando não se está sendo desafiado, se está aprendendo!'
 description:        "Aqui demonstro alguns de meus projetos e habilidades desenvolvidas ao longo da minha jornada como programador!"
 reading_time:       true
 words_per_minute:   200
