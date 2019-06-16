@@ -17,7 +17,7 @@ feature: https://cdn-images-1.medium.com/max/1600/1*Ufd34tmI3Ortayiq9ZsNDA.png
     - [Dependências e projeto da aplicação](#depend%C3%AAncias-e-projeto-da-aplica%C3%A7%C3%A3o)
     - [Abaixo temos as seguintes depêndencias de plugins utilizadas para o nosso objetivo](#abaixo-temos-as-seguintes-dep%C3%AAndencias-de-plugins-utilizadas-para-o-nosso-objetivo)
     - [Definindo as colunas que vão compor o db com variáveis](#definindo-as-colunas-que-v%C3%A3o-compor-o-db-com-vari%C3%A1veis)
-  - [Iniciando a classe `ContactHelper {}`](#iniciando-a-classe-contacthelper)
+  - [Iniciando a classe 'ContactHelper {}'](#iniciando-a-classe-contacthelper)
     - [Utilizando o Sigleton Pattern](#utilizando-o-sigleton-pattern)
     - [Criando o banco de dados](#criando-o-banco-de-dados)
     - [Inicializando um novo banco de dados](#inicializando-um-novo-banco-de-dados)
@@ -70,7 +70,7 @@ Aqui é onde começa a primeira definição sobre as colunas que vão compor o b
 
 Aqui temos uma variável para armazenar apenas o nome da tabela do banco.
 
-## Iniciando a classe `ContactHelper {}`
+## Iniciando a classe 'ContactHelper {}'
 
 ### Utilizando o Sigleton Pattern
 
