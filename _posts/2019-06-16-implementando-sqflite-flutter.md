@@ -5,7 +5,6 @@ date: 2019-06-16
 excerpt: "Para efetuar a implementação de banco de dados relacional em aplicações Flutter é necessário a utilização do módulo SQFlite e algumas regalias no código, como utilização do padrão de projeto singleton."
 tags: [flutter, sql]
 feature: https://cdn-images-1.medium.com/max/1600/1*Ufd34tmI3Ortayiq9ZsNDA.png
-comments: true
 ---
 
 [Link do projeto no qual o código se refere](https://github.com/jsdaniell/contact_list_app)
