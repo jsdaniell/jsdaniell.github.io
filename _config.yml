@@ -5,7 +5,7 @@ description:        "Aqui demonstro alguns de meus projetos e habilidades desenv
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/danisboy.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             
 url:                https://jsdaniell.github.io
@@ -40,11 +40,11 @@ disqus_shortname:   jsdaniell
 email:              jose.daniell@outlook.com
 #twitter:            username
 #facebook:           username
-github-url:         https://github.com/jsdaniell/
+github-url:         jsdaniell
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          https://www.instagram.com/jsdaniell/
+instagram:          jsdaniell
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
