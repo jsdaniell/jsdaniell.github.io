@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Utilizando Banco de Dados Relacional com Flutter"
+title:  "Contact List - Utilizando Banco de Dados Relacional com Flutter"
 date:   2018-05-11
 excerpt: "Um dos meus primeiros projetos utilizando o framework de desenvolvimento mobile Flutter, implementando persistência de dados local no próprio dispositivo, nesse projeto foi utilizado o plugin 'SQFlite' para possibilitar a implementação."
 project: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Utilizando Firebase com Flutter"
+title:  "Real Time Chat with Login - Utilizando Firebase com Flutter"
 date:   2019-02-16
 excerpt: "Nesse projeto utilizei pela primeira vez o Firebase para persistência de dados da aplicação em nuvem, implementando ainda autenticação do usuário e upload de imagens."
 project: true

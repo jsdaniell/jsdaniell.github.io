@@ -14,7 +14,7 @@ tag:
 comments: false
 ---
 
-# Node Shop
+# Node Shop - Node.js e Express.js
 
 Aplicação de loja, utilizando implementação do framework Express.js abstraindo certa complexidade do Node.js pra que houvesse mais foco na lógica de negócio da aplicação, ainda foi utilizado a template engine **[pug](https://pugjs.org/api/getting-started.html)** pra implementação de página HTML dinâmica.
 
