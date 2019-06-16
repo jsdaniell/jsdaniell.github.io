@@ -66,6 +66,13 @@ Nesse projeto utilizei pela primeira vez o Firebase para persistência de dados 
 - C# [Uso do Windows Form e implementações de classes e interfaces - GitHub](https://github.com/jsdaniell/aps_lpoo)
 - Jekyll [Manipulador de site estático no qual utilizo com integração contínua com o GitHub Pages - GitHub](https://github.com/jsdaniell/jsdaniell.github.io)
 
+## Ferramentas de Desenvolvimento
+
+- Git (Controle de versão)
+- GitHub (Repositório dos projetos)
+- VSCode (Utilizo em quase todos os meus projetos)
+- Android Studio (Para desenvolvimento com Flutter, devido ao uso do Inspector)
+
 ## Outros Segmentos no Qual Gosto de Estar Envolvido...
 
 - Metodologia Ágil (Scrum, Design Sprint)
