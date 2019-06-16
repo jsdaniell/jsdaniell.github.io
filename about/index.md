@@ -61,4 +61,18 @@ Um dos meus primeiros projetos utilizando o framework de desenvolvimento mobile 
 
 Nesse projeto utilizei pela primeira vez o Firebase para persistência de dados da aplicação em nuvem, implementando ainda autenticação do usuário e upload de imagens.
 
+### Tecnologias no Qual Tenho Contato Eventual
+
+- C# [Uso do Windows Form e implementações de classes e interfaces - GitHub](https://github.com/jsdaniell/aps_lpoo)
+- Jekyll [Manipulador de site estático no qual utilizo com integração contínua com o GitHub Pages - GitHub](https://github.com/jsdaniell/jsdaniell.github.io)
+
+## Outros Segmentos no Qual Gosto de Estar Envolvido...
+
+- Metodologia Ágil (Scrum, Design Sprint)
+- Arquitetura de software (Modelo iterativo e incremental)
+- Análise de Sistemas
+
+
+
+
 
