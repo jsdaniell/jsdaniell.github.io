@@ -1,3 +1,1 @@
 # jsdaniell.github.io
-
-Proje
