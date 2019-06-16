@@ -6,6 +6,8 @@ Este repositório armazena todo o código utilizado na minha página pessoal hos
 
 ## Configurações Implementadas
 
+Utilizei o projeto [Moon](https://github.com/TaylanTatli/Moon) como base de toda a implementação, algumas mudanças foram efetuadas como mudanças no layout, atributos do Jekyll e update nas dependências, além da mudança das informações utilizadas.
+
 ```yml
 # Site
 title:              'José Daniel'
@@ -87,4 +89,4 @@ exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.j
 
 ## Licença
 
-Sinta-se a vontade para utilizar este projeto como base da sua página, as configurações podem ser modificadas no _config.yml e o restante da personalização fica ao seu critério.
+Sinta-se a vontade para utilizar este projeto como base da sua página, as configurações podem ser modificadas no `_config.yml` e o restante da personalização fica ao seu critério.
