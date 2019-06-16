@@ -85,10 +85,17 @@
                     </li>{% endif %}
 				</ul><!-- /.dl-submenu -->
 			</li>
-			<li>
+			<!-- <li>
 				<a href="#">Posts</a>
 				<ul class="dl-submenu">
 					<li><a href="{{ site.url }}/posts/">Todos os Posts</a></li>
+					<li><a href="{{ site.url }}/tags/">Todas as Tags</a></li>
+				</ul>
+			</li> -->
+			<li>
+				<a href="#">Projetos</a>
+				<ul class="dl-submenu">
+					<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>Todos os Projetos</a></li>
 					<li><a href="{{ site.url }}/tags/">Todas as Tags</a></li>
 				</ul>
 			</li>
@@ -98,7 +105,8 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>Projetos</a></li>
+		    
+		    <!-- <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>Todos os Projetos</a></li> -->
 		  {% endfor %}
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->
