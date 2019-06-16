@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oministack - Consumindo API na Web e no Mobile"
+title:  "Oministack - Consumindo a mesma API na Web e no Mobile"
 date:   2019-06-14
 excerpt: "Aplicação réplica ao Instagram que funciona consumindo API REST feita no back-end com Express.js, utilizando 'Schemas' como modelagem de dados no MongoDB, o front-end foi construído em React, e a versão mobile em React-Native. O projeto fez parte da semana oministack promovida pela Rocketseat."
 project: true
