@@ -14,25 +14,12 @@ Sempre fui apaixonado por tecnologia, ainda sim, iniciei minha carreira no merca
 
 Todos as tecnologias citadas aqui estão contidas na página de projetos e no meu repositório do GitHub, **decidi separar por tópicos de acordo com o uso em meus projetos pra facilitar a visualização**, tenho certo domínio, experiência e conhecimento sob as seguintes tecnologias:
 
-<!-- ommit in TOC -->
-  - [Desenvolvimento Web](#desenvolvimento-web)
-    - [JavaScript → Node.js, Express.js / HTML → Pug(Jade), EJS](#javascript-%E2%86%92-nodejs-expressjs--html-%E2%86%92-pugjade-ejs)
-    - [JavaScript → Node.js, Express.js, React, MongoDB - MERN Stack](#javascript-%E2%86%92-nodejs-expressjs-react-mongodb---mern-stack)
-  - [Desenvolvimento Mobile](#desenvolvimento-mobile)
-    - [JavaScript → React-Native](#javascript-%E2%86%92-react-native)
-    - [Dart → Flutter, SQFlite](#dart-%E2%86%92-flutter-sqflite)
-    - [Dart → Flutter, Firebase](#dart-%E2%86%92-flutter-firebase)
-    - [Tecnologias no Qual Tenho Contato Eventual](#tecnologias-no-qual-tenho-contato-eventual)
-  - [Ferramentas de Desenvolvimento](#ferramentas-de-desenvolvimento)
-  - [Outros Segmentos no Qual Gosto de Estar Envolvido...](#outros-segmentos-no-qual-gosto-de-estar-envolvido)
 
 ## Desenvolvimento Web
 
 ### JavaScript → Node.js, Express.js / HTML → Pug(Jade), EJS
 
-- [NodeShop - GitHub](https://github.com/jsdaniell/nodeshop)
 
-Aplicação de loja, utilizando implementação do framework Express.js abstraindo certa complexidade do Node.js pra que houvesse mais foco na lógica de negócio da aplicação, ainda foi utilizado a template engine **[pug](https://pugjs.org/api/getting-started.html)** pra implementação de página HTML dinâmica.
 
 ### JavaScript → Node.js, Express.js, React, MongoDB - MERN Stack
 
