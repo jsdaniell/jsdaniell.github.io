@@ -14,7 +14,23 @@ Sempre fui apaixonado por tecnologia, ainda sim, iniciei minha carreira no merca
 
 Todos as tecnologias citadas aqui estão contidas na página de projetos e no meu repositório do GitHub, **ao clicar em algum dos tópicos será redirecionado aos meus projetos que se utilizam da tecnologia selecionada**, tenho certo domínio, experiência e conhecimento sob as seguintes tecnologias:
 
+- [Desenvolvimento Web](https://jsdaniell.github.io/tags/#web)
+  - [JavaScript](https://jsdaniell.github.io/tags/#javascript)
+    - [Node.js](https://jsdaniell.github.io/tags/#nodejs)
+      - [API REST](https://jsdaniell.github.io/tags/#api-rest)
+      - [MongoDB (Mongoose)](https://jsdaniell.github.io/tags/#mongodb)
+      - [Express.js](https://jsdaniell.github.io/tags/#expressjs)
+    - [React](https://jsdaniell.github.io/tags/#react)
+  - [HTML]
+    - [Pug (Jade)](https://jsdaniell.github.io/tags/#pug)
+    - [EJS](https://jsdaniell.github.io/tags/#ejs)
 
+- [Desenvolvimento Mobile](https://jsdaniell.github.io/tags/#mobile)
+  - [JavaScript](https://jsdaniell.github.io/tags/#javascript)
+    - [React-Native](https://jsdaniell.github.io/tags/#react-native)
+  - [Flutter (Dart)](https://jsdaniell.github.io/tags/#flutter)
+    - [SQL (SQFlite)](https://jsdaniell.github.io/tags/#sql)
+    - [Firebase](https://jsdaniell.github.io/tags/#firebase)
 
 
 ### Tecnologias no Qual Tenho Contato Eventual
