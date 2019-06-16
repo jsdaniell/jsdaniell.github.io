@@ -1,5 +1,5 @@
 # Site
-title:              José Daniel
+title:              'José Daniel'
 bio:                'Em construção!'
 description:        "Aqui demonstro alguns de meus projetos e habilidades desenvolvidas ao longo da minha jornada como programador!"
 reading_time:       true
@@ -7,7 +7,7 @@ words_per_minute:   200
 logo:               'assets/img/danisboy.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             
 url:                https://jsdaniell.github.io
 
 # Jekyll
