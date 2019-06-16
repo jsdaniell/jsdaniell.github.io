@@ -12,13 +12,13 @@ Sempre fui apaixonado por tecnologia, ainda sim, iniciei minha carreira no merca
 
 # Skills
 
-Todos as tecnologias citadas aqui estão contidas na página de projetos e no meu repositório do GitHub, **decidi separar por tópicos de acordo com o uso em meus projetos pra facilitar a visualização**, tenho certo domínio, expêriencia e conhecimento sob as seguintes tecnologias:
+Todos as tecnologias citadas aqui estão contidas na página de projetos e no meu repositório do GitHub, **decidi separar por tópicos de acordo com o uso em meus projetos pra facilitar a visualização**, tenho certo domínio, experiência e conhecimento sob as seguintes tecnologias:
 
 
 
 <!-- ommit in TOC -->
   - [Desenvolvimento Web](#desenvolvimento-web)
-    - [JavaScript → Node.js, Express.js / HTML → Pug(Jade), EJS](#javascript-%E2%86%92-nodejs-expressjs--html-%E2%86%92-pugjade-ejs)
+    - [JavaScript → Node.js, Express.js / HTML → Pug (Jade), EJS](#javascript-%E2%86%92-nodejs-expressjs--html-%E2%86%92-pugjade-ejs)
     - [JavaScript → Node.js, Express.js, React, MongoDB - MERN Stack](#javascript-%E2%86%92-nodejs-expressjs-react-mongodb---mern-stack)
   - [Desenvolvimento Mobile](#desenvolvimento-mobile)
     - [JavaScript / React-Native](#javascript--react-native)
