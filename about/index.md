@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre Mim
-tags: [about, Jekyll, theme, moon]
+tags: []
 date: 2019-06-15
 comments: false
 ---
@@ -12,7 +12,9 @@ Sempre fui apaixonado por tecnologia, ainda sim, iniciei minha carreira no merca
 
 # Skills
 
-Todos as tecnologias citadas aqui estão contidas na página de projetos e no meu repositório do GitHub, **ao clicar em algum dos tópicos será redirecionado aos meus projetos que se utilizam da tecnologia selecionada**, tenho certo domínio, experiência e conhecimento sob as seguintes tecnologias:
+Minha experiência está contida em tecnologias como **JavaScript** com **Node.js**, **Express.js**, **React**, persistência de dados com **MongoDb**, **SQL**, ferramentas como **Pug (Jade)**, **EJS**, **Jekyll**, **integração contínua com GitHub**, **Git**, desenvolvimento mobile com **Flutter**, **Dart** e **React-Native**.
+
+Abaixo estão todos os meus projetos, todos eles envolvendo as tecnologias que relatei acima, basta clicar para ser redirecionado.
 
 - [Desenvolvimento Web](https://jsdaniell.github.io/tags/#web)
   - [JavaScript](https://jsdaniell.github.io/tags/#javascript)
