@@ -9,11 +9,11 @@ comments: false
 # Navegação
 
 <!-- - [Navegação](#Navega%C3%A7%C3%A3o) -->
-  - [Um pouco sobre mim](#Um-pouco-sobre-mim)
-  - [Tecnologias que tenho contato constante](#Tecnologias-que-tenho-contato-constante)
-  - [Tecnologias que tenho contato eventual](#Tecnologias-que-tenho-contato-eventual)
-  - [Ferramentas de Desenvolvimento](#Ferramentas-de-Desenvolvimento)
-  - [Outros Segmentos no Qual Gosto de Estar Envolvido...](#Outros-Segmentos-no-Qual-Gosto-de-Estar-Envolvido)
+  - [Um pouco sobre mim](#um-pouco-sobre-mim)
+  - [Tecnologias que tenho contato constante](#tecnologias-que-tenho-contato-constante)
+  - [Tecnologias que tenho contato eventual](#tecnologias-que-tenho-contato-eventual)
+  - [Ferramentas de Desenvolvimento](#ferramentas-de-Desenvolvimento)
+  - [Outros Segmentos no Qual Gosto de Estar Envolvido...](#outros-segmentos-no-qual-gosto-de-estar-envolvido)
 
 # Um pouco sobre mim
 
@@ -59,5 +59,3 @@ Abaixo estão todos os meus contatos com as tecnologias listadas, basta clicar p
 # Outros Segmentos no Qual Gosto de Estar Envolvido...
 
 - Metodologia Ágil (Scrum, Design Sprint)
-- Arquitetura de software (Modelo iterativo e incremental)
-- Análise de Sistemas
