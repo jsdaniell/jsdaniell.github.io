@@ -12,7 +12,7 @@ comments: false
   - [Um pouco sobre mim](#um-pouco-sobre-mim)
   - [Tecnologias que tenho contato constante](#tecnologias-que-tenho-contato-constante)
   - [Tecnologias que tenho contato eventual](#tecnologias-que-tenho-contato-eventual)
-  - [Ferramentas de Desenvolvimento](#ferramentas-de-Desenvolvimento)
+  - [Ferramentas de Desenvolvimento](#ferramentas-de-desenvolvimento)
   - [Outros Segmentos no Qual Gosto de Estar Envolvido...](#outros-segmentos-no-qual-gosto-de-estar-envolvido)
 
 # Um pouco sobre mim
