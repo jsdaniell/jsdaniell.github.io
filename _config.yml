@@ -1,50 +1,50 @@
 # Site
-title:              'José Daniel'
-bio:                'Nunca considere-se um produto acabado, pois algo que está acabado não tem mais para onde evoluir!'
-description:        "Aqui demonstro alguns de meus projetos e habilidades desenvolvidas ao longo da minha jornada como programador!"
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/danisboy.png'
-background:         'assets/img/asus.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             
-url:                https://jsdaniell.github.io
+title: "José Daniel"
+bio: "Nunca considere-se um produto acabado, pois algo que está acabado não tem mais para onde evoluir!"
+description: "Aqui demonstro alguns de meus projetos e habilidades desenvolvidas ao longo da minha jornada como programador!"
+reading_time: true
+words_per_minute: 200
+logo: "assets/img/danisboy.png"
+background: "assets/img/asus.jpg"
+tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
+locale:
+url: https://jsdaniell.github.io
 
 # Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    toc_levels: 1..6
+    enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+    sass_dir: _sass
+    style: compressed
 
 # Comments
-disqus_shortname:   jsdaniell
+disqus_shortname: jsdaniell
 
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
+#plus:            #username
+#analytics:
+#verify:
+#ad-client:
+#ad-slot:
 #bing-verify:
-email:              jose.daniell@outlook.com
+email: jose.daniell@outlook.com
 #twitter:            username
 #facebook:           username
-github-url:         jsdaniell
+github-url: jsdaniell
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          jsdaniell
+linkedin: jsdaniell
 #xing:              username
-instagram:          jsdaniell
+instagram: jsdaniell
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -64,13 +64,27 @@ instagram:          jsdaniell
 
 # Gems
 gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+    - jekyll-mentions
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-gist
 
 jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude:
+    [
+        README.md,
+        Gemfile,
+        Gemfile.lock,
+        node_modules,
+        gulpfile.js,
+        package.json,
+        _site,
+        src,
+        vendor,
+        CNAME,
+        LICENSE,
+        Rakefile,
+    ]
